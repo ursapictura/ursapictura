@@ -15,9 +15,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ursapictura&" alt="ursapictura" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ursapictura&show_icons=true&locale=en" alt="ursapictura" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ursapictura&" alt="ursapictura" /></p>
 
 
 

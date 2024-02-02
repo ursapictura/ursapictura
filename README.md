@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Haley%20Smith"/>
 
 
-<h3 align="center">A full-stack developer living in the backwoods of Tennessee .</h3>
+<h3 align="center">Full-stack developer living in the backwoods of Tennessee</h3>
 
 <h3 align="center">🌱 I’m currently learning full-stack development with the Nashville Software School.</h3>
 

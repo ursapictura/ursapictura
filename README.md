@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Haley%20Smith"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Haley%20Smith!"/>
 
 
 <h3 align="center">Full-stack developer living in the backwoods of Tennessee</h3>

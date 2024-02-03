@@ -7,7 +7,7 @@
 <h3 align="center">🌱 I’m currently learning full-stack development with the Nashville Software School.</h3>
 
 <p align="center">
-<img alt="woman at desk" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+<img width="300" alt="let's code a better world" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
 </p>
 
 <h3 align="center">Connect with me:</h3>

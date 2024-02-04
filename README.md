@@ -13,17 +13,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursapictura&label=Profile%20views&color=0e75b6&style=flat" alt="ursapictura" /> </p>
 
 
-🔭 I’m currently working on [a Hogwarts Sorting Hat.](https://my-sorting-hat.netlify.app)
+ 📌  I’m currently working on [a Hogwarts Sorting Hat.](https://my-sorting-hat.netlify.app)
 
- 🌱 I’m currently learning **CS basics, Javascript, and DSA.** 
+ 🌻  I’m currently learning **CS basics, Javascript, and DSA.** 
 
- 👯 I’m looking to collaborate on **anything I can. What've you got!** 
+ 🔮  I’m looking to collaborate on **anything I can. What've you got?!** 
 
- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ursapictura/](https://app.netlify.com/teams/ursapictura/)
+ 🌟  All of my projects are available at [https://app.netlify.com/teams/ursapictura/](https://app.netlify.com/teams/ursapictura/)
 
- 📄 Know about my experiences [https://www.linkedin.com/in/hsmith931/](https://www.linkedin.com/in/hsmith931/) 
+ 📎  Know about my experiences [https://www.linkedin.com/in/hsmith931/](https://www.linkedin.com/in/hsmith931/) 
 
- ⚡ Fun fact **You don't need an alarm clock when you have two cats who know when their breakfast time is.**
+ ⏰ Fun fact: **You don't need an alarm clock when you have two cats who know when their breakfast time is.**
  
 
 <h3 align="left">Connect with me:</h3>

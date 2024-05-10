@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursapictura&label=Profile%20views&color=0e75b6&style=flat" alt="ursapictura" /> </p>
 
 
- 📌  I’m currently working on [Museum Swap.]([https://my-sorting-hat.netlify.app](https://github.com/ursapictura/INDIVIDUAL-ASSIGNMENT-Team-Roster))
+ 📌  I’m currently working on [Museum Swap.](https://github.com/ursapictura/INDIVIDUAL-ASSIGNMENT-Team-Roster)
 
  🌻  I’m currently learning **CS basics, Javascript, and DSA.** 
 

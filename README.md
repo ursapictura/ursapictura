@@ -15,7 +15,7 @@
 
  📌  I’m currently working on [Museum Swap.](https://github.com/ursapictura/INDIVIDUAL-ASSIGNMENT-Team-Roster)
 
- 🌻  I’m currently learning **CS basics, Javascript, and DSA.** 
+ 🌻  I’m currently learning **Javascript, React.js, and DSA.** 
 
  🔮  I’m looking to collaborate on **anything I can. What've you got?!** 
 

@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursapictura&label=Profile%20views&color=0e75b6&style=flat" alt="ursapictura" /> </p>
 
 
- 📌  I’m currently working on [Pet Companion: pet health dashboard.](https://github.com/ursapictura/pet-health-dashboard)
+ 📌  I’m currently working on [Rare Publishing: a fullstack application.](https://github.com/ursapictura/Rare-BE)
 
- 🌻  I’m currently learning **C#, .NEt, SQL, and DSA.** 
+ 🌻  I’m currently learning **C#, .NET, and SQL.** 
 
  🔮  I’m looking to collaborate on **anything I can. What've you got?!** 
 

@@ -13,11 +13,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursapictura&label=Profile%20views&color=0e75b6&style=flat" alt="ursapictura" /> </p>
 
 
- 📌  I’m currently working on [Rare Publishing: a fullstack application.](https://github.com/ursapictura/Rare-BE)
+ 📌  Currently working on [Rare Publishing: a fullstack application.](https://github.com/ursapictura/Rare-BE)
 
- 🌻  I’m currently learning **C#, .NET, and SQL.** 
+ 🌻  Currently learning **C#, .NET, and SQL.** 
 
- 🔮  I’m looking to collaborate on **anything I can. What've you got?!** 
+ 🔮  Looking to collaborate on **anything I can. What've you got?!** 
 
  🌟  All of my deployed projects are available at [https://app.netlify.com/teams/ursapictura/](https://app.netlify.com/teams/ursapictura/)
 

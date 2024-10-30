@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursapictura&label=Profile%20views&color=0e75b6&style=flat" alt="ursapictura" /> </p>
 
 
- 📌  Currently working on [Rare Publishing: a fullstack application.](https://github.com/ursapictura/Rare-BE)
+ 📌  Currently working on [Ticket Republic API: Refactoring to Repository Pattern](https://github.com/ursapictura/SweNamelessBE_RepositoryPattern)
 
  🌻  Currently learning **C#, .NET, and SQL.** 
 

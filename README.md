@@ -23,7 +23,7 @@
 
  📎  Know about my experiences [https://www.linkedin.com/in/hsmith931/](https://www.linkedin.com/in/hsmith931/) 
 
- ⏰  Fun fact: **You don't need an alarm clock when you have two cats who know when their breakfast time is.**
+ ⏰  Fun fact: **You don't need an alarm clock when you have two cats who know their breakfast schedule.**
  
 
 <h3 align="left">Connect with me:</h3>

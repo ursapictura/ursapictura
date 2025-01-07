@@ -4,7 +4,7 @@
 
 <h3 align="left">A full-stack software developer with a passion for social good.</h3>
 
-<h3 align="left">🌱 Currently learning backend development with the Nashville Software School.</h3>
+<h3 align="left">🌱 Currently learning full stack development with the Nashville Software School.</h3>
 
 <p align="left">
 <img width="300" alt="let's code a better world" src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
